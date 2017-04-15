@@ -3,4 +3,7 @@
 Lambdaでawsサービスをタグで識別して削除するスクリプト  
 
 ## 条件  
-1.Keyが「nodelete」Valueが「true」以外のものは削除  
+・Keyが「nodelete」Valueが「true」以外のものは削除  
+
+## ブログ  
+https://adachin.server-on.net/wordpress/?p=4466
