@@ -1,9 +1,7 @@
-## 用途 
+## Use  
 ・terminate-aws   
-Lambdaでawsサービスをタグで判別して削除するスクリプト  
+Script to identify and remove aws service by tag in Lambda   
+https://blog.adachin.me/wordpress/archives/4466  
 
-## 条件  
-・Keyが「nodelete」Valueが「true」以外のものは削除  
-
-## ブログ  
-https://adachin.server-on.net/wordpress/?p=4466
+## conditions    
+・Key deleted "nodelete" Value other than "true"    
